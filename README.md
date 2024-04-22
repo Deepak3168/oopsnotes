@@ -1,0 +1,2 @@
+# oopsnotes
+notes on oops 
